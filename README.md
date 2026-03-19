@@ -1,4 +1,4 @@
-This is a fully interactive digital character sheet for the Stargate SG-1 tabletop RPG, built for the Phoenix Site campaign setting. It runs entirely in your browser as a single HTML file — no apps, no accounts, no installation required. Just open it and play.
+This is a fully interactive digital character sheet for the Stargate SG-1 tabletop RPG, built for the Phoenix Site campaign setting. It runs entirely in your browser as a single HTML file, no apps, no accounts, no installation required. Just open it and play.
 It was built by a fan, for the community. Feel free to use it, share it, and adapt it for your own campaigns.
 
 ## How to use it
